@@ -1,7 +1,7 @@
 
 <h3>Olá!, Me chamo Victor Albuquerque <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="22px" style="color:white;"/> </h3> 
 
-Sou estudante de de Sistemas para Internet na [Unipê](https://www.unipe.edu.br/)
+Sou estudante de Sistemas para Internet na [Unipê](https://www.unipe.edu.br/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/albqvxc/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albqvictor/)
