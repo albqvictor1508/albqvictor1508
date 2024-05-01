@@ -1,32 +1,24 @@
+<body style="background-color: #0D1117; color:white;">
+<h1 align="left">Bem vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="color:white;">, Sou Victor A.</h1>
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/albqvictor1508/6d4f6f1ca367d2c6d247816da789e080/raw/1de0af2db1dea379ba4ec10439ee91d3a9375263/githubcard.svg" />
+<ul>
+ <li>🔥 Junior Full Stack Developer.</li>
 
-### Olá!, Me chamo Victor Albuquerque 🤙
+ <li>🔭 Estou atualmente estudando na <a href="https://www.unipe.edu.br/" style="color:white;">UNIPE</a> </li>
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/albqvxc/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albqvictor/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/albqvictor1508)
-
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=albqvictor1508&show_icons=true&theme=radical)
-
-### Tecnologias usadas:
-
-<div>
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
- <br/>
- <br/>
- 
-Projetos que fiz com o primeiro contato que tive com JS no curso do guanabara:
+  <li>💬 <strong>JavaScript, HTML, CSS, JS, PYTHON</strong> </li>
+ </ul>
 <br>
-<br>
-
-[Multiplicador](https://albqvictor1508.github.io/guanabara-js/moduloC/)
-
-[Analisador de Idades](https://albqvictor1508.github.io/guanabara-js/moduloD/idades.html)
-
+  <p style="color:white;">Este repositório possui projetos feitos com os meus
+  primeiros contatos com o JavaScript:</p>
+<ul>
+  <li> <a href="https://albqvictor1508.github.io/guanabara-js/moduloC/index.html" style="color: white"/> Multiplicador</a></li>
+  <li> <a href="https://albqvictor1508.github.io/guanabara-js/moduloD/idades.html" style="color: white"/>Analisador de Idades</a></li>
+  </ul>
+<br><br><br><br>
+<h1 align="left">Redes Sociais</h1>
+      
+<img src="https://img.shields.io/badge/-albqvxc-05122A?style=flat&logo=instagram"/>&nbsp;
+<img src="https://img.shields.io/badge/-Victor%20Albuquerque-05122A?style=flat&logo=linkedin"/>&nbsp;
+<img src="https://img.shields.io/badge/-albqvictor-05122A?style=flat&logo=x"/>&nbsp;
 
