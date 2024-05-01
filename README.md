@@ -1,5 +1,5 @@
 
-<h3>Olá!, Me chamo Victor Albuquerque <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px" style="color:white;"/> </h3> 
+<h3>Olá!, Me chamo Victor Albuquerque <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="15px" style="color:white;"/> </h3> 
 
 Sou estudante de Sistemas para Internet na [Unipê](https://www.unipe.edu.br/)
 
