@@ -3,9 +3,7 @@
 
 Sou estudante de Sistemas para Internet na [Unipê](https://www.unipe.edu.br/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/albqvxc/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albqvictor/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/albqvictor1508)
 
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=albqvictor1508&show_icons=true&theme=radical)
