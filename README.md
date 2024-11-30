@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="color:white;"/>  Olá!, Me chamo Victor Albuquerque</h1> 
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="color:white;"/>  Olá! Me chamo Victor Albuquerque | Full Stack Developer</h1> 
 
 <p>
 <a href="https://www.linkedin.com/in/albqvictor/"><img src="https://img.shields.io/badge/-Victor%20Albuquerque-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
