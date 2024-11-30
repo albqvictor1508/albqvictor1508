@@ -1,6 +1,6 @@
-<h3><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="color:white;"/>  Olá!, Me chamo Victor Albuquerque</h3> 
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="color:white;"/>  Olá!, Me chamo Victor Albuquerque</h1> 
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/albqvictor/"><img src="https://img.shields.io/badge/-Victor%20Albuquerque-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/-albq.victor@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
