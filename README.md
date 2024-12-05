@@ -40,4 +40,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Victor Albuquerque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albqvictor1508&show_icons=true&theme=transparent)
+![Victor Albuquerque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albqvictor1508&show_icons=true&theme=dark)
