@@ -27,9 +27,13 @@
   <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb&logoColor=003545" alt="MariaDB" />
   <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Elysia-333333?style=flat&logo=elysia" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis" alt="Redis" />
+    <img src="https://img.shields.io/badge/-Bun-333333?style=flat&logo=bun" alt="Bun" />
+    <img src="https://img.shields.io/badge/-Elysia-333333?style=flat&logo=elysia" alt="Elysia.js" />
+    <img src="https://img.shields.io/badge/-Spring Boot-333333?style=flat&logo=spring" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma" alt="Prisma" />
+    <img src="https://img.shields.io/badge/-Drizzle Kit-333333?style=flat&logo=drizzle" alt="Drizzle Kit" />
+    <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
 </p>
 
 <h3>💻 &nbsp;Front-end:</h3>
