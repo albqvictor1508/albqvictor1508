@@ -36,18 +36,6 @@
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
 </p>
 
-<h3>💻 &nbsp;Front-end:</h3>
-<p>
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss&logoColor=38B2AC" alt="TailwindCSS" />
-</p>
-
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
 ![Victor Albuquerque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albqvictor1508&show_icons=true&theme=dark&stars=false)
