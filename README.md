@@ -10,7 +10,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Tenho experiência em ferramentas como **Node.js**, **Bun**, **Spring Boot**, **API RESTful**, **Arquitetura em Camadas**, **Princípios SOLID**, **Redis**, **Docker**, **Websocket** e outras tecnologias que me permitem criar projetos inovadores. Minha jornada na programação começou em fevereiro de 2024, quando entrei na faculdade, e desde então tenho me dedicado a me aperfeiçoar e alcançar grandes objetivos no desenvolvimento de software.
+- 👨🏻‍💻 &nbsp; Tenho experiência em ferramentas como **Node.js**, , **Fastify**, **Express.js**, **Bun**, **Elysia**, **Spring Boot**, **API RESTful**, **Arquitetura em Camadas**, **Princípios SOLID**, **Redis**, **Docker**, **Websocket** e outras tecnologias que me permitem criar projetos inovadores. Minha jornada na programação começou em fevereiro de 2024, quando entrei na faculdade, e desde então tenho me dedicado a me aperfeiçoar e alcançar grandes objetivos no desenvolvimento de software.
 
 - 🚀 &nbsp; Além da área de tecnologia, tenho muito interesse em educação financeira, algo que considero essencial para minha vida pessoal e profissional. Também gosto de treinar, jogar e, principalmente, passar meu tempo com minha família, que é muito importante para mim.
 
