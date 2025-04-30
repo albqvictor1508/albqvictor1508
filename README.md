@@ -1,5 +1,28 @@
-<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="color:white;"/>  Olá! Me chamo Victor Albuquerque</h1>
+<div>
+<img align="center" alt="Header" src="https://github.com/DevLuxor08/DevLuxor08/blob/main/GIF/GifMario.gif" />
+</div>
 
+### Hi, there 👋
+
+<h3> 👨🏻‍💻 &nbsp;Victor Albuquerque </h3>
+
+**`Back-end Developer`**
+
+Me chamo Victor Albuquerque Arruda, também conhecido como **albqdev**.<br>🎓 Sistemas para Internet - Unipê - João Pessoa - PB
+
+Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento de API's RESTful, utilizando de todo conhecimento.
+
+Gosto de criar projetos que misturam tecnologia, criatividade e muita vontade de evoluir!
+
+Aqui no meu GitHub você vai encontrar:
+- 📚 Repositórios de cursos
+- 💻 API's explorando meus conhecimentos
+- 📌 Insights de desenvolvimento e aprendizado
+
+Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou até mesmo trocar uma ideia comigo!
+
+
+**Vamos evoluir juntos!** 🚀
 <p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
@@ -8,17 +31,8 @@
 
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h3> 🛠 &nbsp;My Stack</h3>
 
-- 👨🏻‍💻 &nbsp; Tenho experiência em ferramentas como **Node.js**, , **Fastify**, **Express.js**, **Bun**, **Elysia**, **Spring Boot**, **API RESTful**, **Arquitetura em Camadas**, **Princípios SOLID**, **Redis**, **Docker**, **Websocket** e outras tecnologias que me permitem criar projetos inovadores. Minha jornada na programação começou em fevereiro de 2024, quando entrei na faculdade, e desde então tenho me dedicado a me aperfeiçoar e alcançar grandes objetivos no desenvolvimento de software.
-
-- 🚀 &nbsp; Além da área de tecnologia, tenho muito interesse em educação financeira, algo que considero essencial para minha vida pessoal e profissional. Também gosto de treinar, jogar e, principalmente, passar meu tempo com minha família, que é muito importante para mim.
-
-- 💚 &nbsp; Tenho um enorme carinho pelos estudos no desenvolvimento de software e estou sempre em busca de aprender mais. Atualmente, estou empolgado com a ideia de dominar o inglês, pois sei que isso abrirá ainda mais portas para meu crescimento na carreira. Sou movido por desafios e pelo desejo de deixar minha marca no mundo da tecnologia.
-
-<h2> 🛠 &nbsp;Tech Stack</h2>
-
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 <p>
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB" />
@@ -34,9 +48,12 @@
     <img src="https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma" alt="Prisma" />
     <img src="https://img.shields.io/badge/-Drizzle Kit-333333?style=flat&logo=drizzle" alt="Drizzle Kit" />
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL" />
+        <img src="https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft" alt="Azure" />
 </p>
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+
+
+<h3>🚀 &nbsp;Um pouco mais sobre o meu perfil</h3>
 
 ![Victor Albuquerque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albqvictor1508&show_icons=true&theme=dark&stars=false)
 
