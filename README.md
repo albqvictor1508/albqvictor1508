@@ -2,27 +2,25 @@
 <img align="center" alt="Header" src="https://github.com/DevLuxor08/DevLuxor08/blob/main/GIF/GifMario.gif" />
 </div>
 
-### Hi, there 👋
+### Hi there 👋
 
 <h3> 👨🏻‍💻 &nbsp;Victor Albuquerque </h3>
 
 **`Back-end Developer`**
 
-Me chamo Victor Albuquerque Arruda, também conhecido como **albqdev**.<br>🎓 Sistemas para Internet - Unipê - João Pessoa - PB
+My name is Victor Albuquerque Arruda, also known as **albqdev**..
+<br>🎓 Sistemas para Internet - Unipê - João Pessoa - PB
 
-Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento de API's RESTful, utilizando de todo conhecimento.
+I'm currently focused on enhancing my skills in RESTful API development, leveraging all my knowledge and experience. I love creating projects that blend technology, creativity, and a strong drive to evolve!
 
-Gosto de criar projetos que misturam tecnologia, criatividade e muita vontade de evoluir!
+### Here on my GitHub, you'll find:
+📚 Course repositories
+💻 APIs showcasing my technical expertise
+📌 Development insights and learning experiences
 
-Aqui no meu GitHub você vai encontrar:
-- 📚 Repositórios de cursos
-- 💻 API's explorando meus conhecimentos
-- 📌 Insights de desenvolvimento e aprendizado
+Feel free to follow my projects, leave a star ⭐, or even connect with me for a chat!
 
-Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou até mesmo trocar uma ideia comigo!
-
-
-**Vamos evoluir juntos!** 🚀
+**Let's grow together! 🚀**
 <p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
@@ -53,7 +51,7 @@ Sinta-se à vontade para acompanhar meus projetos, deixar uma estrela ⭐, ou at
 
 
 
-<h3>🚀 &nbsp;Um pouco mais sobre o meu perfil</h3>
+<h3>🚀 &nbsp;More about my profile!</h3>
 
 ![Victor Albuquerque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albqvictor1508&show_icons=true&theme=dark&stars=false)
 
