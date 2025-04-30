@@ -9,7 +9,7 @@
 **`Back-end Developer`**
 
 My name is Victor Albuquerque Arruda, also known as **albqdev**..
-<br>**🎓 Sistemas para Internet - Unipê - João Pessoa - PB**
+### **🎓 Sistemas para Internet - Unipê - João Pessoa, PB**
 
 I'm currently focused on enhancing my skills in RESTful API development, leveraging all my knowledge and experience. I love creating projects that blend technology, creativity, and a strong drive to evolve!
 
