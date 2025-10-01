@@ -1,7 +1,3 @@
-<div>
-<img align="center" alt="Header" src="https://github.com/DevLuxor08/DevLuxor08/blob/main/GIF/GifMario.gif" />
-</div>
-
 ### Hi there 👋
 
 <h3> 👨🏻‍💻 &nbsp;Victor Albuquerque </h3>
