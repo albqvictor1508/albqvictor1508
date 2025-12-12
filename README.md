@@ -37,10 +37,6 @@ My technical stack is geared towards modern practices and performance, built on 
     <img src="https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft" alt="Azure" />
 </p>
 
----
-
 ### Academic Background
 
 **Internet Systems Technology** | Unipê - João Pessoa, PB (02/2024 - 12/2025)
-
----
