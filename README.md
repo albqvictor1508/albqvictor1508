@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### Hi there! I'm Victor, also known as **albqdev** 👋
+### I'm Victor, also known as **albqdev** 👋
+
+(My Portfolio)[https://portfolio-cr3hkggnr-albqvictor1508s-projects.vercel.app/]
 
 I am a Back-end Developer passionate about building **robust and efficient solutions**. With a strong focus on **high-performance RESTful APIs**, I leverage my knowledge and experience to create projects that integrate technology, creativity, and a relentless drive for continuous improvement.
 
@@ -18,7 +20,7 @@ My technical stack is geared towards modern practices and performance, built on 
 * **ORMs/Frameworks:** Prisma, Drizzle Kit, Elysia.js, Fastify.
 
 **Tools and Infrastructure:**
-* **Containerization:** Docker (Development and Production environments), Kubernetes.
+* **Containerization:** Docker, Kubernetes.
 * **Cloud Services:** Microsoft Azure, AWS, Vercel, Railway.
 
 <p align="left">
@@ -42,12 +44,6 @@ My technical stack is geared towards modern practices and performance, built on 
 
 ### 🎓 Academic Background
 
-**Internet Systems Technology** - Unipê - João Pessoa, PB
+**Internet Systems Technology** | Unipê - João Pessoa, PB (02/2024 - 12/2025)
 
 ---
-
-### 📊 Performance and Contributions
-
-My primary projects and activity reflect my commitment to development:
-
-!
