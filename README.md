@@ -8,11 +8,6 @@ My name is Victor Albuquerque Arruda, also known as **albqdev**..
 
 I'm currently focused on enhancing my skills in RESTful API development, leveraging all my knowledge and experience. I love creating projects that blend technology, creativity, and a strong drive to evolve!
 
-### Here on my GitHub, you'll find:
-- 📚 Course repositories
-- 💻 APIs showcasing my technical expertise
-- 📌 Development insights and learning experiences
-
 Feel free to follow my projects, leave a star ⭐, or even connect with me for a chat!
 
 **Let's grow together! 🚀**
@@ -48,4 +43,3 @@ Feel free to follow my projects, leave a star ⭐, or even connect with me for a
 <h3>🚀 &nbsp;More about my profile!</h3>
 
 ![Victor Albuquerque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albqvictor1508&show_icons=true&theme=dark&stars=false)
-
