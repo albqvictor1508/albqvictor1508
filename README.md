@@ -8,13 +8,10 @@ I am a Back-end Developer passionate about building **robust and efficient solut
 
 I am always seeking new challenges and opportunities to apply and expand my skills within the development ecosystem.
 
----
-
-### 🛠️ My Expertise and Stack
+### My Expertise and Stack
 
 My technical stack is geared towards modern practices and performance, built on a solid foundation in **Node.js, TypeScript, and both SQL and NoSQL database ecosystems**.
 
-**Core Focus:**
 * **Languages:** Typescript, Golang.
 * **Databases:** PostgreSQL, MongoDB, MySQL, MariaDB, Redis.
 * **ORMs/Frameworks:** Prisma, Drizzle Kit, Elysia.js, Fastify.
@@ -42,7 +39,7 @@ My technical stack is geared towards modern practices and performance, built on 
 
 ---
 
-### 🎓 Academic Background
+### Academic Background
 
 **Internet Systems Technology** | Unipê - João Pessoa, PB (02/2024 - 12/2025)
 
