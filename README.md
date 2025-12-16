@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### I'm Victor, also known as **albqdev** 👋
-
 [My Portfolio](https://portfolio-cr3hkggnr-albqvictor1508s-projects.vercel.app)
 
 I am a Back-end Developer passionate about building **robust and efficient solutions**. With a strong focus on **high-performance RESTful APIs**, I leverage my knowledge and experience to create projects that integrate technology, creativity, and a relentless drive for continuous improvement.
