@@ -5,9 +5,7 @@ Graduated in Internet Systems Technology from Unipê (João Pessoa, Brazil).
 
 I am a developer focused on building robust and scalable solutions. Specialized in developing high-performance RESTful APIs, I strive to integrate technical excellence and creativity to solve complex problems within the modern development ecosystem.
 
-[Visit my Portfolio](https://me.albuquerquesz.com.br)
-
----
+[Portfolio](https://me.albuquerquesz.com.br)
 
 ### Technical Expertise
 
