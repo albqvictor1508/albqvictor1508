@@ -1,31 +1,25 @@
-<div align="center">
-    <h1>Hi there 👋</h1>
-    <p>
-        <strong>Back-end Developer</strong><br>
-        Graduated in Internet Systems Technology
-    </p>
-    <p>
-        Passionate about building robust and efficient solutions.<br>
-        Focused on high-performance RESTful APIs, integrating technology and creativity.
-    </p>
-    <br>
-    <a href="https://me.albuquerquesz.com.br">
-        <img src="https://img.shields.io/badge/Visit_Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Button">
-    </a>
-</div>
+# Albuquerque
 
-<br>
+### Back-end Developer
+Graduated in Internet Systems Technology from Unipê (João Pessoa, Brazil).
 
-### 🛠️ Expertise & Stack
+I am a developer focused on building robust and scalable solutions. Specialized in developing high-performance RESTful APIs, I strive to integrate technical excellence and creativity to solve complex problems within the modern development ecosystem.
 
-My technical stack focuses on modern practices and performance, built on **Node.js, TypeScript, and SQL/NoSQL ecosystems**.
+[Visit my Portfolio](https://me.albuquerquesz.com.br)
 
-- **Languages:** TypeScript, Golang, Java
-- **Databases:** PostgreSQL, MongoDB, MySQL, MariaDB, Redis
-- **Frameworks & Tools:** Elysia.js, Fastify, Prisma, Drizzle Kit
-- **Infrastructure:** Docker, Kubernetes, AWS, Azure, Vercel, Railway
+---
 
-### 🎓 Academic Background
+### Technical Expertise
 
-**Internet Systems Technology**  
-Unipê - João Pessoa, PB (Graduated Dec 2025)
+My stack is geared toward performance and modern practices, built on the Node.js ecosystem and both relational and non-relational databases.
+
+*   **Languages:** TypeScript, Golang, and Java.
+*   **Databases:** PostgreSQL, MongoDB, MySQL, MariaDB, and Redis.
+*   **Frameworks & ORMs:** Elysia.js, Fastify, Prisma, and Drizzle Kit.
+*   **Infrastructure & Cloud:** Docker, Kubernetes, AWS, Microsoft Azure, Vercel, and Railway.
+
+### Academic Background
+
+**Internet Systems Technology**
+Unipê - João Pessoa, PB
+*Completed in December 2025*
