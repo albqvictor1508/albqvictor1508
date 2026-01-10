@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there, I'm Albuquerque 👋</h1>
+    <h1>Hi there 👋</h1>
     <p>
         <strong>Back-end Developer</strong><br>
         Graduated in Internet Systems Technology
@@ -15,7 +15,6 @@
 </div>
 
 <br>
-<hr>
 
 ### 🛠️ Expertise & Stack
 
