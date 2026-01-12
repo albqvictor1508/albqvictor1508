@@ -3,17 +3,16 @@
 ### Back-end Developer
 Graduated in **Internet Systems Technology** from *Unipê* (João Pessoa, Brazil).
 
-I am a developer focused on building robust and scalable solutions. Specialized in developing high-performance RESTful APIs, I strive to integrate technical excellence and creativity to solve complex problems within the modern development ecosystem.
+I am a developer focused on building robust and scalable solutions, currently contributing to [@AbacatePay](https://github.com/AbacatePay). I also maintain [@serenitysz](https://github.com/serenitysz), a linter focused on code quality and consistency.
 
 [About me](https://links.albuquerquesz.com.br)
 
 ### Technical Expertise
 
-My stack is geared toward performance and modern practices, built on the Node.js ecosystem and both relational and non-relational databases.
+Focused on the Node.js ecosystem and high-performance solutions.
 
-*   **Languages:** TypeScript, Golang, and Java.
-*   **Databases:** PostgreSQL, MongoDB, MySQL, MariaDB, and Redis.
-*   **Frameworks & ORMs:** Elysia.js, Fastify, Prisma, and Drizzle Kit.
-*   **Infrastructure & Cloud:** Docker, Kubernetes, AWS, Microsoft Azure, Vercel, and Railway.
+* **Languages:** TypeScript, Golang, and Java.
+* **Storage:** PostgreSQL, Redis, and MongoDB.
+* **Tools & Infra:** Fastify, Elysia.js, Docker, and AWS.
 
 
