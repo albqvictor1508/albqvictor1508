@@ -3,8 +3,8 @@
 ### Back-end Developer
 Graduated in **Internet Systems Technology** from *Unipê* (João Pessoa, Brazil).
 
-I am a developer focused on building robust and scalable solutions, currently contributing to [@AbacatePay](https://github.com/AbacatePay). 
-And i'm founder of [@serenitysz](https://github.com/serenitysz), a linter focused on code quality and consistency.
+I am a developer focused on building robust and scalable solutions, currently Open-Source Administrator and contributer at [@AbacatePay](https://github.com/AbacatePay). 
+And founder of [@serenitysz](https://github.com/serenitysz), a linter focused on code quality and consistency.
 
 [About me](https://links.albuquerquesz.com.br)
 
