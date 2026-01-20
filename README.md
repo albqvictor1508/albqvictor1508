@@ -13,7 +13,7 @@ And founder of [@serenitysz](https://github.com/serenitysz), a linter focused on
 Focused on the Node.js ecosystem and high-performance solutions.
 
 * **Languages:** TypeScript, Golang.
-* **Storage:** SQL & NoSQL, Redis, Firebase, Keyring.
+* **Storage:** SQL & NoSQL, Redis, Firebase, Supabase.
 * **Tools & Infra:** Fastify, Elysia.js, Docker, and AWS, Github Actions.
 
 
