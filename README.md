@@ -21,9 +21,8 @@ Focused on the Node.js ecosystem and high-performance solutions.
 - [abacatepay-cli](https://github.com/albuquerquesz/abacatepay-cli) - CLI for interacting with the AbacatePay platform.
 - [abacatepay-extension](https://github.com/albuquerquesz/abacatepay-extension) - VS Code extension for AbacatePay APIs and local workflows.
 - [abacatepay-templates](https://github.com/albuquerquesz/abacatepay-templates) - Starter templates for Elysia and Next.js with AbacatePay integrations.
-- [blaboard](https://github.com/albuquerquesz/blaboard) - Open-source app for project and issue management.
 - [clubidulivro](https://github.com/albuquerquesz/clubidulivro) - Platform for organizing and tracking book club reading.
 - [gitscribe](https://github.com/albuquerquesz/gitscribe) - AI-powered Git commits and terminal automation.
 - [goascii](https://github.com/albuquerquesz/goascii) - Go tool for rendering text as ASCII art.
-- [links](https://github.com/albuquerquesz/links) - Personal links page and online profile hub.
-- [mor](https://github.com/albuquerquesz/mor) - Attractive landing page project.
+- [Serenity Linter](https://github.com/serenitysz/serenity) - An agressive and comprehensive Golang linter for your workflow.
+- [Serenity Docs](https://github.com/serenitysz/docs) - Official documentation repository for Serenity.
